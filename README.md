@@ -4,6 +4,6 @@
 All c++ code is written for the c++20 standard and might not compile with previous standard compilers
 
 - csc350
-  - sortingAlgorithms
+  - [Assignments](https://github.com/Cryst67/CSC350/tree/main/csc350/Assignments)
   
 - kattis
